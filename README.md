@@ -12,6 +12,7 @@
 
 - Solidity
 - Hardhat
+- JavaScript
 
 ```bash
 git clone https://github.com/aakashvishcoder/DEX-Contract-using-solidity.git
