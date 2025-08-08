@@ -14,5 +14,5 @@
 - Hardhat
 
 ```bash
-git clone repo
+git clone https://github.com/aakashvishcoder/DEX-Contract-using-solidity.git
 cd your-repo
